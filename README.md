@@ -1,3 +1,5 @@
+# Codes will be added
+
 # First Steps with Julia – Street‑View Character Recognition
 
 A **hands‑on starter project** that walks you through building image‑classification models in Julia using the **Chars74K Street‑View** dataset.  
